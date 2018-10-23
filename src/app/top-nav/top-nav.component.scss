@@ -1,0 +1,38 @@
+img {
+    display: inline-block;
+    vertical-align: -0.3em;
+}
+
+.navbar-brand {
+    padding-left: 18px !important;
+}
+
+.newsroom {
+    color: #bd081c;
+    text-decoration: none;
+    font-size: 1rem;
+    line-height: 1.5em;
+}
+
+.nav-link {
+    color: #8e8e8e !important;
+    text-decoration: none !important;
+    font-family: inherit;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+}
+
+.nav-link:hover {
+    color: #555555 !important;
+    text-decoration: underline !important;
+}
+
+.navbar-expand-lg .navbar-collapse {
+    padding-left: 60px !important;
+}
+
+.nav-item {
+    margin-right: 20px !important;
+}
