@@ -36,3 +36,22 @@ img {
 .nav-item {
     margin-right: 20px !important;
 }
+
+nav {
+    top: 0;
+    background-color: white;
+    color: rgba(142, 142, 142, 0.8);
+    box-shadow: 0 1px 0 0 #efefef;
+}
+
+.rss-subscribe {
+    background: #555555;
+    font-size: 13px;
+    padding: 2px;
+    color: white;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
